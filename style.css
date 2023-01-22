@@ -27,7 +27,7 @@ header {
 button {
   padding: 16px 24px;
   border-radius: 8px;
-  border: 1px solid #8b5cf6;
+  border: 1px solid #0EA5E9;
   background-color: transparent;
   color: white;
 
@@ -100,8 +100,8 @@ input {
 }
 /*Pseudo-selector*/
 input:checked {
-  background: #8b5cf6;
-  border: 2px solid #a78bfa;
+  background: #0EA5E9;
+  border: 2px solid #93C5FD;
 }
 
 @media(max-width: 570px){
